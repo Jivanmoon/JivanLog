@@ -1,0 +1,6 @@
+2023-02-23 17:00:55 [1000ms]	2855	brand_new_threa	2023-02-23 17:00:55 [1000ms]	2855	brand_new_threa	2023-02-23 17:03:24 [1001ms]	2969	brand_new_threa	[FATAL]	[root]	tests/test_log.cpp:31	fatal msg
+2023-02-23 17:03:24 [1001ms]	2969	brand_new_threa	[ERROR]	[root]	tests/test_log.cpp:32	err msg
+2023-02-23 21:08:16 [1000ms]	4030	brand_new_threa	[FATAL]	[root]	tests/test_log.cpp:31	fatal msg
+2023-02-23 21:08:16 [1001ms]	4030	brand_new_threa	[ERROR]	[root]	tests/test_log.cpp:32	err msg
+2023-02-23 21:14:04 [1000ms]	4268	brand_new_threa	[FATAL]	[root]	tests/test_log.cpp:31	fatal msg
+2023-02-23 21:14:04 [1000ms]	4268	brand_new_threa	[ERROR]	[root]	tests/test_log.cpp:32	err msg
